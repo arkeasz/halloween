@@ -15,7 +15,7 @@ Welcome to the **Halloween.dev Challenges Solutions Repository**! This repositor
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/halloween-challenges.git
+   git clone https://github.com/arkeasz/halloween.git
    ```
 2. Run the file:
    ```bash
